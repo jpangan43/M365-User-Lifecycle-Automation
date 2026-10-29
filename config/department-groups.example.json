@@ -1,0 +1,14 @@
+{
+  "IT": {
+    "groupDisplayName": "SG-IT",
+    "groupObjectId": "REPLACE-WITH-REAL-GROUP-GUID"
+  },
+  "Sales": {
+    "groupDisplayName": "SG-Sales",
+    "groupObjectId": "REPLACE-WITH-REAL-GROUP-GUID"
+  },
+  "Operations": {
+    "groupDisplayName": "SG-Operations",
+    "groupObjectId": "REPLACE-WITH-REAL-GROUP-GUID"
+  }
+}

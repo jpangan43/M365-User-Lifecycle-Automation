@@ -1,0 +1,14 @@
+{
+  "IT": {
+    "skuId": "REPLACE-WITH-REAL-SKU-GUID",
+    "skuPartNumber": "REPLACE-WITH-TENANT-SKU"
+  },
+  "Sales": {
+    "skuId": "REPLACE-WITH-REAL-SKU-GUID",
+    "skuPartNumber": "REPLACE-WITH-TENANT-SKU"
+  },
+  "Operations": {
+    "skuId": "REPLACE-WITH-REAL-SKU-GUID",
+    "skuPartNumber": "REPLACE-WITH-TENANT-SKU"
+  }
+}
